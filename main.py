@@ -83,7 +83,7 @@ class Wordle:
         f4 = tk.Frame(main_btn_frame, bg=self.BG)
         f5 = tk.Frame(main_btn_frame, bg=self.BG)
         f6 = tk.Frame(main_btn_frame, bg=self.BG)
-        self.button_frames = [f1,f2, f3,
+        self.button_frames = [f1, f2, f3,
                               f4, f5, f6]
 
         self.b_row1 = self.b_row2 = self.b_row3 =\
