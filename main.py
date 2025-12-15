@@ -306,7 +306,7 @@ class Wordle:
                         )
 
                         """
-                         if a character is present more than once in a word 
+                         if a character is present more than once in a word
                          then we will only change the color of, that comes
                          first, That's why we are replacing the duplicates
                          with '/' so that the duplicates are not highlighted.
@@ -329,7 +329,7 @@ class Wordle:
                         """
                          if a character is present more than once in a
                          word then we will only change the color of,
-                         that comes first, That's why we are replacing the 
+                         that comes first, That's why we are replacing the
                          duplicates with '/' so that the duplicates
                          are not highlighted.
                         """
